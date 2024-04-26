@@ -2,6 +2,7 @@
 Proyecto CinemExtract: Explorando el Séptimo Arte a través de Datos y Tecnología
 
 1. Resumen
+   
 La plataforma de streaming BHO se encuentra en una búsqueda constante para mejorar la calidad de su contenido y la satisfacción de sus usuarios. Nuestro proyecto consiste en aplicar técnicas de análisis de datos para identificar cuáles son las películas y cortometrajes más populares y mejor valorados desde 1990 hasta la fecha. Esto ayudará a BHO a tomar decisiones informadas sobre qué contenido promocionar y destacar en su plataforma.
 
 El objetivo es identificar las películas y cortos más populares en la plataforma BHO, basándonos en criterios como las calificaciones, el número de visualizaciones, y las reseñas de los usuarios. Analizar la evolución de las preferencias de los usuarios a lo largo de los años y determinar las tendencias en la industria cinematográfica. Proporcionar recomendaciones específicas para la promoción de contenido en las diferentes secciones de la plataforma. 
@@ -73,6 +74,7 @@ Con los datos almacenados en la base de datos, debes realizar consultas SQL para
 - ¿Cuál es la mejor serie valorada en IMDB?
 
 2. Objetivos
+   
 1. Consolidar los conocimientos de Python y SQL.
 2. Utilizar control de versiones en equipo para aprender las ventajas y conflictos
 que genera.
@@ -84,15 +86,18 @@ equipo y la mejora continua.
 en la sesión final.
 
 3. Planificación del proyecto
+   
 3.1. sprints
    
 Para la realización de este proyecto trabajaremos en 2 sprints (2 iteraciones). Siguiendo los principios ágiles, estableceremos pequeños ciclos iterativos de forma que al final de cada uno generemos valor perceptible por nuestros usuarios. Dedicaremos el primer día a la planificación del sprint (sprint planning) y el resto a trabajar en el desarrollo del proyecto. Al final de cada sprint haremos un Sprint Review del proyecto para presentar los resultados conseguidos y recogerfeedback.
 
 3.2. Criterios de aceptación
+
 Crear la infraestructura necesaria: repositorio en GitHub y con acceso para todos los miembros del equipo. Extraer datos de distintas fuentes de datos y creación de una Base de Datos. Tener la extracción de datos, creación de la Base de Datos e 
  insercción de datos automatizada en funciones(obligatorio) y clases(optativo) tener en el repositorio de GitHub todo el código del desarrollo del proyecto.
 
 3.3. Historias de usuario
+
 Para la gestión del proyecto, usaremos historias de usuario. Las historias de usuario son descripciones breves y concretas de las funcionalidades o características que un usuario espera encontrar en un producto o sistema. Recordemos que, las historias de usuario son una herramienta importante para asegurarse de que el equipo de desarrollo (es decir, nosotras) entienda las necesidades de los usuarios y construya el producto de manera efectiva. Si bien estas historias de usuario puede resultar un poco complejas para el tema que nos ocupa, podemos definir unas historias de usuario más claras para este proyecto, estas pueden ser:
 1. Seleccionar las herramientas con las que vamos a sacar los datos.
 2. Decidir la estructura de la base de datos.
